@@ -1,13 +1,16 @@
 <table>
 <tr>
-<td width="55%" style="padding:0">
-<img src="dore.jpg" width="100%" height="600" style="display:block;object-fit:cover;object-position:center" alt="Gustave Doré"/>
+<td width="55%" style="padding:0;vertical-align:top">
+<img src="dore.jpg" width="100%" height="750" style="display:block;object-fit:cover;object-position:center;min-height:750px" alt="Gustave Doré"/>
 </td>
 <td width="45%" valign="top" style="padding:20px">
-<h2>Emilly Tainá</h2>
+<h2>Emilly Taina</h2>
 <p>Estudante de Sistemas de Informação no IFNMG, 20 anos.
 Apaixonada por tecnologia e música — codifico melhor
 com fone no ouvido e playlist no shuffle.</p>
+<hr/>
+<h3>Áreas de Interesse</h3>
+<p>Estou no início da graduação em Sistemas de Informação e construindo minha base técnica com foco em desenvolvimento web. Tenho interesse crescente em segurança da informação e análise de dados — áreas que pretendo aprofundar ao longo do curso. Busco oportunidades de aprendizado, estágios e projetos onde possa contribuir e evoluir na prática.</p>
 <hr/>
 <h3>Estudando</h3>
 <ul>
@@ -26,7 +29,7 @@ com fone no ouvido e playlist no shuffle.</p>
 <hr/>
 <h3>Contato</h3>
 <ul>
-<li>LinkedIn: <a href="https://linkedin.com/in/EmillySilva">EmillySilva</a></li>
+<li>LinkedIn: <a href="https://www.linkedin.com/in/emilly-tain%C3%A1-79413326b/">Emilly Taina</a></li>
 <li>Instagram: <a href="https://instagram.com/emilly.tt">@emilly.tt</a></li>
 <li>E-mail: emillytaina01@gmail.com</li>
 <li>Discord: emillytainax</li>
