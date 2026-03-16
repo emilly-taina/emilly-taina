@@ -1,37 +1,33 @@
-<img align="left" width="45%" src="dore.jpg" alt="Gustave Doré" />
-
-&nbsp;
-
-## Emilly
-
+<table>
+<tr>
+<td width="45%">
+<img src="dore.jpg" width="100%" alt="Gustave Doré"/>
+</td>
+<td width="55%" valign="top" style="padding-left: 20px">
+Emilly
 Estudante de Sistemas de Informação no IFNMG, 20 anos.
 Apaixonada por tecnologia e música — codifico melhor
 com fone no ouvido e playlist no shuffle.
+Estudando
 
-&nbsp;
+Java, HTML5, CSS3 e JavaScript
+Linguagem C
+Git e GitHub
+Lógica de programação e algoritmos
 
-**Estudando**
+Tecnologias
 
-- Java, HTML5, CSS3 e JavaScript
-- Linguagem C
-- Git e GitHub
-- Lógica de programação e algoritmos
+Linguagens: Java, C, JavaScript
+Front-end: HTML5, CSS3
+Ferramentas: Git, GitHub
 
-&nbsp;
+Contato
 
-**Tecnologias**
+LinkedIn: EmillySilva
+Instagram: @emilly.tt
+E-mail: emillytaina01@gmail.com
+Discord: emillytainax
 
-- **Linguagens:** Java, C, JavaScript
-- **Front-end:** HTML5, CSS3
-- **Ferramentas:** Git, GitHub
-
-&nbsp;
-
-**Contato**
-
-- LinkedIn: [EmillySilva](https://linkedin.com/in/EmillySilva)
-- Instagram: [@emilly.tt](https://instagram.com/emilly.tt)
-- E-mail: emillytaina01@gmail.com
-- Discord: emillytainax
-
-&nbsp;
+</td>
+</tr>
+</table>
