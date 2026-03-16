@@ -9,6 +9,7 @@ com fone no ouvido e playlist no shuffle.</p>
 <h4>Estudando</h4>
 <ul>
 <li>Java, HTML5, CSS3 e JavaScript</li>
+<li>Linguagem C</li>
 <li>Git e GitHub</li>
 <li>Lógica de programação e algoritmos</li>
 </ul>
@@ -16,13 +17,13 @@ com fone no ouvido e playlist no shuffle.</p>
 <td valign="top" width="50%">
 <h4>Tecnologias</h4>
 <ul>
-<li><b>Linguagens:</b> Java, C, JavaScript, Python</li>
+<li><b>Linguagens:</b> Java, C, JavaScript</li>
 <li><b>Front-end:</b> HTML5, CSS3</li>
 <li><b>Ferramentas:</b> Git, GitHub</li>
 </ul>
 <h4>Contato</h4>
 <ul>
-<li>LinkedIn: <a href="[https://linkedin.com/in/EmillySilva](https://www.linkedin.com/in/emilly-silva-79413326b/)">EmillySilva</a></li>
+<li>LinkedIn: <a href="https://linkedin.com/in/EmillySilva">EmillySilva</a></li>
 <li>Instagram: <a href="https://instagram.com/emilly.tt">@emilly.tt</a></li>
 <li>E-mail: emillytaina01@gmail.com</li>
 <li>Discord: emillytainax</li>
