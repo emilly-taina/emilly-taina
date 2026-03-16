@@ -6,8 +6,8 @@
 <td width="45%" valign="top" style="padding:20px">
 <h2>Emilly Tainá</h2>
 <p>Estudante de Sistemas de Informação no IFNMG, 20 anos.
-Apaixonada por tecnologia e música — codifico melhor
-com fone no ouvido e playlist no shuffle.</p>
+Apaixonada por tecnologia e música. Codifico melhor
+com fone no ouvido e playlist no aleatório.</p>
 <hr/>
 <h3>Estudando</h3>
 <ul>
