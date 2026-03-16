@@ -1,5 +1,4 @@
-<img align="left" width="46%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Gustave_Dore_Inferno34.jpg/800px-Gustave_Dore_Inferno34.jpg" alt="Gustave Doré" />
-
+<img align="left" width="46%" src="dore.jpg" alt="Gustave Doré" />
 <div>
 
 ## Emilly
@@ -23,7 +22,7 @@ com fone no ouvido e playlist no shuffle.
 
 ### Contato
 
-- LinkedIn: [EmillySilva](https://linkedin.com/in/emilly-silva)
+- LinkedIn: [EmillySilva]([https://www.linkedin.com/in/emilly-silva-79413326b/])
 - Instagram: [@emilly.tt](https://instagram.com/emilly.tt)
 - E-mail: emillytaina01@gmail.com
 - Discord: emillytainax
