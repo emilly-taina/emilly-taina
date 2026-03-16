@@ -9,8 +9,6 @@
 Apaixonada por tecnologia e música — codifico melhor
 com fone no ouvido e playlist no shuffle.</p>
 <hr/>
-<h3>Áreas de Interesse</h3>
-<p>Estou no início da graduação em Sistemas de Informação e construindo minha base técnica com foco em desenvolvimento web. Tenho interesse crescente em segurança da informação e análise de dados — áreas que pretendo aprofundar ao longo do curso. Busco oportunidades de aprendizado, estágios e projetos onde possa contribuir e evoluir na prática.</p>
 <hr/>
 <h3>Estudando</h3>
 <ul>
