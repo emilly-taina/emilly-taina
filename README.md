@@ -1,9 +1,9 @@
 <table>
 <tr>
-<td width="45%">
+<td width="60%">
 <img src="dore.jpg" width="100%" alt="Gustave Doré"/>
 </td>
-<td width="55%" valign="top">
+<td width="40%" valign="top">
 <h2>Emilly</h2>
 <p>Estudante de Sistemas de Informação no IFNMG, 20 anos.<br/>
 Apaixonada por tecnologia e música — codifico melhor<br/>
