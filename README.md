@@ -4,7 +4,7 @@
 <img src="dore.jpg" width="100%" height="750" style="display:block;object-fit:cover;object-position:center;min-height:750px" alt="Gustave Doré"/>
 </td>
 <td width="45%" valign="top" style="padding:20px">
-<h2>Emilly Taina</h2>
+<h2>Emilly Tainá</h2>
 <p>Estudante de Sistemas de Informação no IFNMG, 20 anos.
 Apaixonada por tecnologia e música — codifico melhor
 com fone no ouvido e playlist no shuffle.</p>
