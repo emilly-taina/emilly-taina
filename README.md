@@ -9,7 +9,6 @@
 Apaixonada por tecnologia e música — codifico melhor
 com fone no ouvido e playlist no shuffle.</p>
 <hr/>
-<hr/>
 <h3>Estudando</h3>
 <ul>
 <li>Java, HTML5, CSS3 e JavaScript</li>
