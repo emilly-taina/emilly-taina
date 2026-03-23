@@ -24,6 +24,12 @@ com fone no ouvido e playlist no aleatório.</p>
 <li><b>Ferramentas:</b> Git, GitHub</li>
 </ul>
 <hr/>
+<h3>Idiomas</h3>
+<ul>
+<li><b>Português:</b>C2</li>
+<li><b>Inglês:</b> B2</li>
+</ul>
+<hr/>
 <h3>Contato</h3>
 <ul>
 <li>LinkedIn: <a href="https://www.linkedin.com/in/emilly-tain%C3%A1-79413326b/">Emilly Taina</a></li>
