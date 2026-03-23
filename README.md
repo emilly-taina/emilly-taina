@@ -17,13 +17,6 @@ com fone no ouvido e playlist no aleatório.</p>
 <li>Lógica de programação e algoritmos</li>
 </ul>
 <hr/>
-<h3>Tecnologias</h3>
-<ul>
-<li><b>Linguagens:</b> Java, C, JavaScript</li>
-<li><b>Front-end:</b> HTML5, CSS3</li>
-<li><b>Ferramentas:</b> Git, GitHub</li>
-</ul>
-<hr/>
 <h3>Idiomas</h3>
 <ul>
 <li><b>Português:</b> C2</li>
