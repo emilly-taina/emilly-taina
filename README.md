@@ -26,7 +26,7 @@ com fone no ouvido e playlist no aleatório.</p>
 <hr/>
 <h3>Idiomas</h3>
 <ul>
-<li><b>Português:</b>C2</li>
+<li><b>Português:</b> C2</li>
 <li><b>Inglês:</b> B2</li>
 </ul>
 <hr/>
